@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//codeforces 431A
 int main(){
 	int a[4], calories=0;
 
